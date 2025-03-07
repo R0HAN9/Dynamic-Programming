@@ -15,6 +15,6 @@ class Solution {
                 }
             }
         }
-        return dp[s.length()];        
+        return dp[s.length()]; 
     }
 }
